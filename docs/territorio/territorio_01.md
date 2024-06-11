@@ -20,6 +20,9 @@ last_modified_date: "25/09/2023"
 
 Neste capítulo você encontra uma breve contextualização sobre a Estratégia e-SUS APS, o processo de trabalho dos Técnicos em agente comunitário em saúde (TACS), Agentes comunitários de saúde (ACS), Agentes de combate às endemias (ACE) e os Agentes de ação social (AAS) no contexto desta aplicação e as orientações iniciais para utilização do Aplicativo e-SUS Território.
 
+{:.nota}
+A partir da Portaria SAES/MS nº 1.546, de 20 de março de 2024 inclui-se a Classificação Brasileira de Ocupações (CBO) 322-55 - Técnico em agende comunitário de saúde para profissionais que a partir do Programa Mais Saúde com Agente, se estabeleceu a formação técnica dos Agentes Comunitários de Saúde - ACS e dos Agentes de Combate às Endemias - ACEs que atuam nos Estados, Municípios e no Distrito Federal, no âmbito do Sistema Único de Saúde - SUS. 
+
 O Departamento de Saúde da Família (DESF) incluiu na Estratégia e-SUS Atenção Primária à Saúde (e-SUS APS) aplicativos móveis para registro das ações realizadas pelos profissionais de saúde em locais de difícil manejo de computadores ou notebooks. O desenvolvimento deste aplicativo é integrado ao Sistema e-SUS APS com Prontuário Eletrônico do Cidadão (PEC) ampliando a capacidade de troca de informações entre a equipe. Nesse contexto, não por acaso, o primeiro aplicativo desenvolvido para APS priorizou os Agentes Comunitários de Saúde (ACS), Agentes de Combate às Endemias (ACE) e os Agentes de Ação Social (AAS) dada a capilaridade das ações desses agentes no território.
 
 O aplicativo e-SUS Território foi desenvolvido para utilização em dispositivos do tipo tablet ou smartphone, levando em consideração aspectos relacionados ao conforto, à segurança e à usabilidade da ferramenta no processo de trabalho dos agentes. 
