@@ -64,7 +64,7 @@ Elaine de Almeida, Igor de Carvalho Gomes, Ingryd Isabelle Maia de Souza, Janaí
 Ana Claudia Cielo, André Cury Alves, Igor de Carvalho Gomes, Micael Macedo Pereira da Trindade e João Geraldo de Oliveira Júnior
 
 **Elaboração de texto**<br>
-Adriana Kitajima, Allan Nuno Alves de Souza, Ana Claudia Cielo, André Cury Alves, Edson Lucena, Igor de Carvalho Gomes, João Geraldo de Oliveira Júnior, Janaína Nogueira Guimarães, Micael Macedo Pereira, da Trindade, Lilian Suelen de Oliveira Cunha,  Rodrigo André Cuevas Gaete, Thaís Alessa Leite, Vanessa Lora, Virgínia Fava,
+Adriana Kitajima, Allan Nuno Alves de Souza, Ana Claudia Cielo, André Cury Alves, Edson Lucena, Igor de Carvalho Gomes, João Geraldo de Oliveira Júnior, Janaína Nogueira Guimarães, Micael Macedo Pereira, da Trindade, Lilian Suelen de Oliveira Cunha,  Rodrigo André Cuevas Gaete, Thaís Alessa Leite, Vanessa Lora, Virgínia Fava. 
 
 **Projeto Gráfico**<br>
 Alexandre Soares de Brito, Diogo Ferreira Gonçalves
